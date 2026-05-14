@@ -46,6 +46,22 @@ The goal is to become the Bloomberg Terminal for AI coding models.
 - SEO landing pages
 - Trend detection bot
 
+## Local Development
+
+Install dependencies and start the app:
+
+```bash
+npm install
+npm run dev
+```
+
+Useful checks:
+
+```bash
+npm run typecheck
+npm run build
+```
+
 ## Status
 
-Initial scaffold in progress.
+Initial Next.js scaffold in progress.
